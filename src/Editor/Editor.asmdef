@@ -1,0 +1,16 @@
+{
+    "name": "Chankiyu22.UnitySceneRef.Editor",
+    "references": [
+        "SceneRef"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

@@ -1,0 +1,25 @@
+{
+    "name": "com.chankiyu22.unity-scene-ref",
+    "displayName": "Unity Scene Ref",
+    "version": "0.0.1",
+    "unity": "2018.3",
+    "description": "",
+    "keywords": [
+        "unity",
+        "scene",
+        "scene ref"
+    ],
+    "category": "Unity",
+    "files": [
+        "/package.json",
+        "/package.json.meta",
+        "/src",
+        "/src.meta",
+        "/src/SceneRef.asmdef",
+        "/src/SceneRef.asmdef.meta"
+    ],
+    "author": {
+        "name": "chankiyu22",
+        "email": "chankiyu22@gmail.com"
+    }
+}
